@@ -1,3 +1,18 @@
+GB comments:
+Prob1: 100%
+Prob2:
+P1:100
+P2: 75
+P3:90
+P4:80
+P5:100 
+Prob3
+P1: 100
+P2:100
+P3:75 Plot is a line graph with incorrect labels. 
+Overall: 91
+
+
 % Homework 1. Due before class on 9/5/17
 
 %% Problem 1 - addition with strings
